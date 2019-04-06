@@ -1,0 +1,16 @@
+body {
+	font-size: 1.5rem;
+}
+#codePre{
+    width: 94vw;
+    height: 90vh;
+}
+.token selector{
+    color: #000;
+}
+.token punctuation{
+	color: #000;
+}
+.token property{
+	color: #000;
+}
