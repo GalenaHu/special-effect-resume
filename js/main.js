@@ -60,7 +60,7 @@ body{
     height: 86vh;
     box-shadow: 0 0 4px 4px rgba(0,0,0,0.3);
     padding: 40px;
-    margin: 30px;
+    margin: 30px 15px;
     overflow: auto;
     font-family: Helvetica;
 }
@@ -71,7 +71,7 @@ HTMLCode =
 `<section class="header">
     <h1>胡宇</h1>
     <p>176****3118 | galena.hu@****.com</p>
-    <p>中国地质大学/应届/硕士 | 北京</p>
+    <p>****大学/****/**** | 北京</p>
 </section>
 <section class="education">
     <h3>教育经历</h3>
