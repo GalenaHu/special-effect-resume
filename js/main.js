@@ -10,7 +10,7 @@ CSSCode =
 /*加点颜色，改一下字体大小*/
 body{
     background: #EFEFEF;
-    font-size: 1.7rem;
+    font-size: 1.5rem;
 }
 
 #codePre{
@@ -56,11 +56,11 @@ body{
 
 #resumePre{
     background: white;
-    width: 60vw;
+    width: 59vw;
     height: 86vh;
     box-shadow: 0 0 4px 4px rgba(0,0,0,0.3);
     padding: 40px;
-    margin: 30px 15px;
+    margin: 30px 10px;
     overflow: auto;
     font-family: Helvetica;
 }
@@ -126,16 +126,16 @@ h3, hr {
     display: flex;
     flex-wrap: wrap;
 }
-.education dl dd {
-    width: 20%;
-    text-align: right;
-    font-style: italic;
-}
 .education dl dt {
     width: 78%;
 }
 .education dl dt:nth-child(1) {
     font-weight: bold;
+}
+.education dl dd {
+    width: 20%;
+    text-align: right;
+    font-style: italic;
 }
 li {
     margin-left: 40px;
